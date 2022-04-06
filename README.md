@@ -1,4 +1,4 @@
-# RustFishingVillageRecyvler
+# RustFishingVillageRecycler
 Oxide Plugin for addition recycler in fishing village
 1) Place file "City17RecylerVillage.cs" in server\oxide\plugins
 2) Installation and configuration is not required =)
